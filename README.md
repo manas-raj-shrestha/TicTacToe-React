@@ -1,1 +1,1 @@
-A simple begineers project to get started with React. 
+A interactive tic tac toe game to get started with React. 
